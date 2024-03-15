@@ -1,0 +1,6 @@
+path: D:\AHTK8\DUANAI_IOT\Yolo2\Yolo_2\dataset
+train: train/
+val: val/
+
+nc: 4
+names: ['Violet','Blue','Green','Red']
